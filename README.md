@@ -1,4 +1,4 @@
-Assignment 3
+**Assignment 3**
 
 Generating data : 3 dimensions input and 2 dimensions output
 
